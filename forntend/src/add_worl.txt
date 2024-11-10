@@ -1,0 +1,4 @@
+
+1 . chek user is loging or not than sign google and emailPasswors
+2. add post btn lodding
+3. like bttn
